@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.0 (Python 3.9.1 on win32)" generated="20210329 11:42:03.073" rpa="false" schemaversion="2">
+<suite id="s1" name="ScennarioNextStar" source="C:\Users\jacks\PycharmProjects\NextStarAutomacaoRobotFramework\Test\ScennarioNextStar.robot">
+<test id="s1-t1" name="PRE-CONDICAO: ABRINDO APLICACAO">
+<kw name="Abrindo aplicacao para iniciar os testes" library="OpenAndCloseApplication">
+<msg timestamp="20210329 11:42:03.311" level="FAIL">User keyword 'Abrindo aplicacao para iniciar os testes' contains no keywords.</msg>
+<status status="FAIL" starttime="20210329 11:42:03.310" endtime="20210329 11:42:03.311"/>
+</kw>
+<status status="FAIL" starttime="20210329 11:42:03.310" endtime="20210329 11:42:03.311">User keyword 'Abrindo aplicacao para iniciar os testes' contains no keywords.</status>
+</test>
+<test id="s1-t2" name="POS-CONDICAO: FECHANDO APLICACAO">
+<kw name="Finalizando aplicacao" library="OpenAndCloseApplication">
+<msg timestamp="20210329 11:42:03.312" level="FAIL">User keyword 'Finalizando aplicacao' contains no keywords.</msg>
+<status status="FAIL" starttime="20210329 11:42:03.312" endtime="20210329 11:42:03.312"/>
+</kw>
+<status status="FAIL" starttime="20210329 11:42:03.311" endtime="20210329 11:42:03.312">User keyword 'Finalizando aplicacao' contains no keywords.</status>
+</test>
+<doc>Automation NextStar - JACKSON HENRIQUE</doc>
+<status status="FAIL" starttime="20210329 11:42:03.074" endtime="20210329 11:42:03.313"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="2" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="2" skip="0" id="s1" name="ScennarioNextStar">ScennarioNextStar</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
